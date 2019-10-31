@@ -8,6 +8,8 @@ import java.util.Date.*;
 
 public class Server extends JFrame { //implements ActionListener,Runnable {
 	
+
+	private static final long serialVersionUID = 1L;
 	//TEXT AREA FOR DISPLAYING CONTENTS
 	private JTextArea jta = new JTextArea();
 	
